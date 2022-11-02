@@ -6,6 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version  rvm install ruby-2.5.1
+
 * Rails version  gem install rails -v 5.2.8.1 
 
 * System dependencies
@@ -23,3 +24,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Bog-API
+Learning course 
+
